@@ -5,3 +5,4 @@
 ```sh
 npm i -g sampreeth-trie
 ```
+*Disclaimer: Executable was created on Macintosh, package installation and was tested on Mac terminal
